@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Pluto2k2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Classifying+software+requirements+with+ML+%26+LLMs;Shipping+full-stack+web+apps+%F0%9F%9A%80;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Classifying+software+requirements+with+ML+%26+LLMs;Shipping+full-stack+web+apps;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,10 +18,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Working on **AI for software engineering**, especially automated classification of **Non-Functional Requirements (NFRs)**
-- 🧠 Experimenting with **classic ML, deep learning and LLMs** (Llama 3.3 via Groq) on the PROMISE dataset
-- 🌐 Building **full-stack web apps** with TypeScript and JavaScript
-- 🌱 Always learning and open to collaboration
+- Working on **AI for software engineering**, especially automated classification of **Non-Functional Requirements (NFRs)**
+- Experimenting with **classic ML, deep learning and LLMs** (Llama 3.3 via Groq) on the PROMISE dataset
+- Building **full-stack web apps** with TypeScript and JavaScript
+- Always learning and open to collaboration
 
 ---
 
@@ -40,13 +40,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Pluto2k2/Requify">🧾 Requify</a></h4>
+      <h4><a href="https://github.com/Pluto2k2/Requify">Requify</a></h4>
       <p>Python desktop app that classifies software requirements into 7 categories using the Groq API and Llama 3.3.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LLM-Llama%203.3-8A2BE2?style=flat" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Pluto2k2/NFR-Decision-Tree">🌳 NFR Decision Tree</a></h4>
+      <h4><a href="https://github.com/Pluto2k2/NFR-Decision-Tree">NFR Decision Tree</a></h4>
       <p>Interactive framework that recommends the best AI classification architecture for your NFRs and project constraints.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/Interactive-Tool-38BDF8?style=flat" />
@@ -54,13 +54,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Pluto2k2/NFR_Automated_Approaches_Classification_Comparission">📊 NFR Classification Comparison</a></h4>
+      <h4><a href="https://github.com/Pluto2k2/NFR_Automated_Approaches_Classification_Comparission">NFR Classification Comparison</a></h4>
       <p>Benchmarking machine learning approaches for software requirements classification on the PROMISE dataset.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/ML-Research-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Pluto2k2/LAB2MARKET">🧪 LAB2MARKET</a></h4>
+      <h4><a href="https://github.com/Pluto2k2/LAB2MARKET">LAB2MARKET</a></h4>
       <p>TypeScript web platform project.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     </td>
