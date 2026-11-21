@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="./assets/header.svg" alt="ASCII portrait of Oussama with profile info" width="100%" />
+  <img src="./assets/header.svg" alt="Pixel art header: OUSSAMA" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Pluto2k2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+%F0%9F%A4%96;Classifying+software+requirements+with+ML+%26+LLMs;Shipping+full-stack+web+apps+%F0%9F%9A%80;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Classifying+software+requirements+with+ML+%26+LLMs;Shipping+full-stack+web+apps+%F0%9F%9A%80;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
