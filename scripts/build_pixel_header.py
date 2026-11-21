@@ -1,12 +1,12 @@
 """Generate a pixel-art header SVG (8-bit space scene + pixel-font name).
 
-Usage: python scripts/build_pixel_header.py assets/header.svg
+Usage: python scripts/build_pixel_header.py assets/pixel-header.svg
 """
 import math
 import random
 import sys
 
-OUT = sys.argv[1] if len(sys.argv) > 1 else "assets/header.svg"
+OUT = sys.argv[1] if len(sys.argv) > 1 else "assets/pixel-header.svg"
 CELL = 6                 # px per pixel-art cell
 GW, GH = 200, 50         # grid size in cells -> 1200 x 300 px
 W, H = GW * CELL, GH * CELL
