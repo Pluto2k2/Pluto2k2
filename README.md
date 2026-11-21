@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="./assets/pixel-header.svg" alt="Pixel art header: OUSSAMA" width="100%" />
+  <img src="./assets/pixel-header.svg?v=3" alt="Pixel art header: OUSSAMA" width="100%" />
 </p>
 
 <p align="center">
